@@ -1,1 +1,1 @@
-work hard
+permissions
