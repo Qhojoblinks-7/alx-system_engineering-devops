@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd /etc/hosts
+grep 'irc\|gnats\|nobody\|_apt\|systemd-timesync' /etc/passwd
